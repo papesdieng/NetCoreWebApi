@@ -1,4 +1,4 @@
-﻿namespace WebApi.Domain
+﻿namespace School.Domain
 {
     public interface IUserService
     {

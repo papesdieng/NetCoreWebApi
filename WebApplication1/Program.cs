@@ -1,4 +1,4 @@
-using WebApi.Domain;
+using School.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,5 +26,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
 
 

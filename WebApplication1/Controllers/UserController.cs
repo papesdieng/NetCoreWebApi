@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApi.Domain;
+using School.Domain;
 
-namespace WebApplication1.Controllers
+namespace WebApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
